@@ -15,6 +15,10 @@ I named this project **OpenRising** after drawing inspiration from the UK's **Op
 
 All project documentation is written in English.
 
+## Build your professional profile
+
+- [Your GitHub profile as a career calling card](docs/github-profile.md): a practical guide for recent graduates in software development and data science, with established setup resources, honest project presentation, open-source contribution evidence, and job-application advice.
+
 ## Labour-market research
 
 Start with the [city youth unemployment comparison](docs/city-youth-unemployment.md): an English chart, population context, a machine-readable dataset, and source notes.
