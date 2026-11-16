@@ -2,6 +2,12 @@
 
 Help Gen Z establish an honest, verifiable profile and make informed career plans.
 
+## Why OpenRising?
+
+I named this project **OpenRising** after drawing inspiration from the UK's **OpenUK** organisation and its **Rising Ambassador** title. Bringing “Open” and “Rising” together gave this project its name.
+
+**OpenRising** 的名字来自我对英国 **OpenUK** 组织及其 **Rising Ambassador** 称号的启发。我把其中的 “Open” 与 “Rising” 结合起来，作为这个项目的名字。
+
 ## Career planning
 
 - [选择你的竞争场：用地理套利寻找第一份机会](docs/geographic-arbitrage.md)
