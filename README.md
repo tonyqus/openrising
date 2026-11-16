@@ -21,6 +21,14 @@ All project documentation is written in English.
 
 - [Build real experience through open source](docs/building-experience-through-open-source.md): choose manageable contributions, follow through on feedback, and present your work honestly.
 
+## Find job opportunities
+
+- [Finding your first job with Indeed, LinkedIn and professional connections](docs/finding-your-first-job.md): understand ATS distribution, connect applications to real work, and build professional relationships.
+
+## Future improvements
+
+- [Local job-search guidance](docs/local-job-search-roadmap.md): deferred research on countries, cities, occupations and applicant eligibility; not yet part of the job-search chapter.
+
 ## Labour-market research
 
 Start with the [city youth unemployment comparison](docs/city-youth-unemployment.md): an English chart, population context, a machine-readable dataset, and source notes.
