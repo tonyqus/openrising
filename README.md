@@ -19,6 +19,8 @@ All project documentation is written in English.
 
 - [Your GitHub profile as a career calling card](docs/github-profile.md): a practical guide for recent graduates in software development and data science, with established setup resources, honest project presentation, open-source contribution evidence, and job-application advice.
 
+- [Build real experience through open source](docs/building-experience-through-open-source.md): choose manageable contributions, follow through on feedback, and present your work honestly.
+
 ## Labour-market research
 
 Start with the [city youth unemployment comparison](docs/city-youth-unemployment.md): an English chart, population context, a machine-readable dataset, and source notes.
