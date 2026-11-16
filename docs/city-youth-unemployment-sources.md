@@ -34,4 +34,4 @@ URLs below were collected during the earlier research conversation. Values in th
 
 - [Shanghai Statistical Yearbook population series](https://tjj.sh.gov.cn/tjnj/2025tjnj/C02/C0201B.htm): official year-end permanent resident series.
 - [2020 report on service-management population](https://www.thepaper.cn/newsDetail_forward_10149338): broader historical big-data estimates; does not establish a current permanent resident count above 30m.
-- [Report explaining Zhang Dandan's 2023 calculation](https://www.fx168news.com/article/中国-256729): national expanded-definition upper bound; not Shanghai city data.
+- [Report explaining Zhang Dandan's 2023 calculation](https://www.fx168news.com/article/%E4%B8%AD%E5%9B%BD-256729): national expanded-definition upper bound; not Shanghai city data.

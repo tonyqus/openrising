@@ -1,91 +1,89 @@
-# 选择你的竞争场：用地理套利寻找第一份机会
+# Choose your playing field: geographic arbitrage for your first opportunity
 
-[返回首页](../README.md) · [预算与来源说明](geographic-arbitrage-budget.md) · [English guide](geographic-arbitrage.en.md)
+[Home](../README.md) · [Budget and source notes](geographic-arbitrage-budget.md) · [Quick guide](geographic-arbitrage.en.md)
 
-整理日期：2026-11-16。面向刚进入职场的程序员、数据科学及其他可以跨地区交付成果的求职者。
+Prepared: 2026-11-16. For early-career programmers, data scientists and other applicants whose work can be delivered across locations.
 
-找工作，不只是证明自己比别人优秀，也是在寻找一个更需要你的地方。
+Finding work means demonstrating your abilities and finding a place that needs them.
 
-## 1. 什么是地理套利？
+## 1. What is geographic arbitrage?
 
-地理套利是利用不同地区在收入、生活成本和人才供需上的差异，改善自己的职业机会和可支配结余。它既可以发生在两个国家之间，也可以发生在同一个国家的不同城市，甚至市中心和通勤区域之间。
+Geographic arbitrage uses differences in income, living costs and the supply and demand for skills to improve career opportunities and disposable income. It can happen between countries, between cities in one country, or between central and commuting neighbourhoods.
 
-常见做法有三种：
-
-| 做法 | 收入与居住安排 | 首先验证什么 |
+| Approach | Work and living arrangements | What to validate first |
 | --- | --- | --- |
-| 到更需要你的地方工作 | 在目标城市就业和生活 | 岗位是否接受新人、你的技能和工作资格 |
-| 远程工作 | 为一个市场交付成果，在另一个地区生活 | 雇主是否允许从该地区工作、合同与结算安排 |
-| 调整城市内居住位置 | 工作地点不变，住到更合适的通勤区域 | 房租节省能否覆盖交通成本和通勤时间 |
+| Move to a market that needs your skills | Work and live in the destination city | Access for beginners, skill requirements and work eligibility |
+| Work remotely | Serve one market while living elsewhere | Employer location rules, contract and payment arrangements |
+| Change neighbourhood | Keep the job and choose a more suitable commuting area | Whether rent savings justify transport costs and commuting time |
 
-数字游民强调工作与固定办公地点的分离；地理套利强调这种选择如何改变机会和收支。远程工作者可以长期住在一个地方，不必频繁旅行。频繁搬家也未必能省钱。
+Digital nomadism separates work from a fixed office; geographic arbitrage examines how location choices affect opportunities and finances. Remote workers can stay in one place for years. Frequent moves do not necessarily save money.
 
-## 2. 对应届生，先比较机会
+## 2. For graduates, compare opportunities first
 
-生活便宜但没有适合你的岗位，不能解决第一份工作的问题。一个成本较高的地方，如果提供可获得的岗位、更好的培养和更高的税后结余，也值得比较。
+Cheap living does not solve the problem of finding a first job if suitable roles are unavailable. A more expensive destination can still be worth considering when it offers accessible jobs, better training and a larger after-tax surplus.
 
-| 判断维度 | 要回答的问题 | 可收集的证据 |
+| Dimension | Question | Evidence to collect |
 | --- | --- | --- |
-| 技能需求 | 哪些企业实际需要我的技能？ | 企业官网上的近期岗位及明确技能要求 |
-| 新人准入 | 真正接受0—2年经验吗？ | 初级岗位、实习、培训项目及真实面试反馈 |
-| 可申请性 | 我的身份、语言和工作地点符合要求吗？ | 岗位条款、雇主答复、目的地官方要求 |
-| 实际结余 | 扣掉必要支出，能留下多少？ | 可获得的薪酬、住房报价和完整预算 |
-| 后续成长 | 两年后能积累什么？ | 导师、团队、项目复杂度和技能迁移空间 |
+| Skill demand | Which employers actually need my skills? | Recent employer vacancies with explicit requirements |
+| Access for beginners | Do these roles genuinely accept 0–2 years of experience? | Junior roles, internships, training and interview feedback |
+| Eligibility | Do I meet identity, language and location requirements? | Job terms, employer responses and official destination requirements |
+| Monthly surplus | What remains after necessary expenses? | Obtainable pay, housing quotes and a complete budget |
+| Growth | What could I learn over the next two years? | Mentoring, teams, project complexity and transferable skills |
 
-“岗位需求相对人才供给更充足”是需要检验的假设。不能因为一座城市失业率低，就认定外国应届生或某个专业的毕业生更容易找到工作。职位平台上的申请人数，也不能直接当作有效竞争者人数。
+The idea that demand is stronger relative to the supply of suitable applicants is a hypothesis to test. Low city unemployment does not establish that an international graduate or a graduate in a particular field will find work more easily. Application counts on job platforms are not counts of qualified competitors.
 
-结合[城市青年失业率章节](city-youth-unemployment.md)阅读时，要检查年份、年龄范围、地理范围和统计定义；全国数据不能改名为城市数据，缺失数据也不能用猜测补齐。
+When reading the [city youth unemployment comparison](city-youth-unemployment.md), check the year, age range, geography and statistical definition. Do not relabel national data as city data or fill missing values with guesses.
 
-## 3. 先把账算完整
+## 3. Calculate the complete budget
 
-月度结余 = 税后月收入 − 房租 − 食品 − 交通 − 水电通信 − 医疗保险等必要支出 − 其他支出 − 年度费用的月均分摊。
+Monthly surplus = take-home monthly income − rent − food − transport − utilities and communications − necessary healthcare and insurance − other expenses − monthly allocations for annual costs.
 
-另算押金、搬迁和设备等启动资金，以及没有收入时的生活预算。押金影响现金需求，不应不加区分地全部视为当月永久消费。
+Calculate startup cash for deposits, moving and equipment separately, alongside a budget for periods without income. Deposits affect cash requirements and should not automatically be treated entirely as permanent consumption in the first month.
 
-比较两个城市时：
+When comparing cities:
 
-- 优先用自己有可能拿到的岗位薪酬，而非全市平均薪酬。
-- 在每个城市先用当地货币计算，再按注明日期的汇率换算。
-- 分别比较市中心、非市中心和合租；非市中心不自动等于远郊。
-- 单人、带孩子、合租及独居是不同预算，不能混算。
-- 含房租的生活成本总额，不能再重复扣一次房租。
-- 高薪币种不保证高结余，便宜城市也不保证职业回报更好。
+- Use pay you could realistically obtain rather than the citywide average.
+- Calculate in each local currency first, then convert using a dated exchange rate.
+- Compare central housing, non-central housing and shared accommodation separately. Non-central does not necessarily mean a distant suburb.
+- Keep budgets for single people, parents, shared housing and independent living distinct.
+- Avoid deducting rent again from a cost-of-living total that already includes it.
+- A higher-value currency does not guarantee a larger surplus, and a cheaper city does not guarantee better career returns.
 
-上海／伦敦的历史讨论数字和“约9,000元”的情景演算，见[预算说明](geographic-arbitrage-budget.md)。它们用于理解方法，不构成当前城市收入排名。
+See the [budget companion](geographic-arbitrage-budget.md) for the historical Shanghai–London figures and the roughly CNY9,000 savings scenario. These illustrate a method rather than a current ranking of city incomes.
 
-## 4. 用已有图表学习提问
+## 4. Use existing charts to ask better questions
 
-可以参考 [Digital Nomad Global Data Analysis](https://github.com/Aventardo7777/digital-nomad-data-analysis)。该项目是Python数据分析课程作业，README明确写有模拟采集。因此，图表适合学习分析与表达，实际求职决策仍需逐项核对原始数据。
+The [Digital Nomad Global Data Analysis project](https://github.com/Aventardo7777/digital-nomad-data-analysis) is a Python data-analysis course assignment. Its README explicitly describes simulated collection. Its charts are useful for learning analysis and communication; individual career decisions require checking the underlying evidence.
 
-| 图表 | 可以学习什么 | 不应直接推出什么 |
+| Chart | What to learn | What it does not establish |
 | --- | --- | --- |
-| 核心挑战柱状图 | 把网络、沟通、生活安排等问题纳入选择 | 某个百分比代表所有数字游民 |
-| 收入与满意度散点图 | 观察分布、异常点和变量关联 | 收入提高必然导致满意度提高 |
-| 城市适配雷达图 | 展示成本、基础设施等多维取舍 | 综合分最高的城市最适合每个人 |
-| 职业收入热力图 | 寻找值得进一步研究的技能方向 | 学会某工具就能拿到图中的收入 |
-| 城市成本关联散点图 | 比较变量、提出问题 | 成本更高或更低一定带来更好结果 |
+| Core challenges bar chart | Include connectivity, communication and living arrangements in the comparison | That a percentage represents all digital nomads |
+| Income and satisfaction scatterplot | Examine distributions, outliers and associations | That higher income necessarily causes greater satisfaction |
+| City suitability radar chart | Show trade-offs across costs, infrastructure and other dimensions | That the highest-scoring city suits everyone |
+| Occupational income heatmap | Identify skill directions worth investigating | That learning a tool guarantees the displayed income |
+| City cost association scatterplot | Compare variables and form questions | That higher or lower costs necessarily produce better outcomes |
 
-雷达图和综合评分尤其需要公开权重。初级求职者可能更重视新人岗位与培养，已有稳定客户的人可能更重视生活成本与网络。换权重以后，排名可能变化。
+Radar charts and composite scores need transparent weights. A junior applicant may prioritise entry-level vacancies and training; someone with established clients may prioritise costs and connectivity. Rankings can change when weights change.
 
-AI可以帮助翻译图例、清理字段、检查公式、写分析代码，但不能替你补造来源、工作经历或薪酬事实。把模拟数据、观察数据和个人假设分开标注，也是诚实展示能力的一部分。
+AI can translate legends, clean fields, check formulas and help write analysis code. It cannot justify invented sources, experience or salary claims. Label simulated data, observations and personal assumptions separately.
 
-## 5. 给自己做一次小范围验证
+## 5. Run a small validation exercise
 
-选一个职业方向和三个候选城市，先做两周的小研究，不必一开始就研究全球。
+Choose one occupation and three candidate cities. Start with two weeks of focused research rather than trying to cover the world.
 
-1. 每个城市收集约20个近期、去重的相关岗位，记录日期、来源、经验要求、薪酬及地点限制。样本不代表整个市场。
-2. 标记自己真正符合的岗位，区分“网页上有岗位”和“我可以申请”。
-3. 查看多个真实住房报价，记录区域、租期、是否包含账单以及通勤时间。
-4. 填写[预算模板](geographic-arbitrage-budget.md#可复制的个人预算模板)，做基准、收入下降和成本上涨三种情景。
-5. 先投递并观察回复、面试和雇主反馈，再决定是否需要迁移。
-6. 记录一个继续条件和一个停止条件，例如取得书面录用条件、预算可承受且地点安排明确后才搬迁。
+1. Collect about 20 recent, deduplicated relevant vacancies per city. Record dates, sources, experience requirements, pay and location restrictions. The sample does not represent the entire market.
+2. Identify roles you actually qualify for. A listed vacancy is not automatically an accessible opportunity.
+3. Obtain multiple real housing quotes. Record neighbourhood, lease duration, included bills and commuting time.
+4. Complete the [personal budget template](geographic-arbitrage-budget.md#personal-budget-template), including baseline, lower-income and higher-cost scenarios.
+5. Apply and observe responses, interviews and employer feedback before deciding whether to move.
+6. Define conditions for proceeding and stopping. For example, move only after written employment terms, an affordable budget and clear location arrangements are established.
 
-这是验证方法的练习，不是要求先积累大量数据才能投简历。研究和投递可以同步进行。
+Research and applications can happen together. This exercise does not require collecting a large dataset before sending a CV.
 
-## 6. 把研究变成可验证的作品
+## 6. Turn the research into verifiable work
 
-对程序员和数据科学求职者，这本身就是一个小项目：整理三个城市的岗位样本，提供来源、清洗过程、预算假设和结论边界。可以用Python、SQL或Excel完成。
+For programmers and data-science applicants, this can be a small portfolio project: organise vacancy samples for three cities and provide sources, cleaning steps, budget assumptions and limits to the conclusions. Python, SQL or Excel can all work.
 
-优先参与已有项目：修一个字段说明、补一个来源、修复一个图表或增加一个小功能。不要一开始就承诺做全球求职平台。让别人能看懂你的改动、复现结果，并知道哪些部分由AI协助。
+Prefer a manageable contribution to an existing project: clarify a field, add a source, fix a chart or implement a small feature. Avoid starting by promising a global recruitment platform. Make your changes understandable and reproducible, and identify where AI helped.
 
-最终要回答的是：以我目前能证明的技能，在哪里更可能得到第一份机会，并留下继续成长所需的时间与资金？
+The question to answer is: with the skills I can demonstrate today, where am I more likely to find a first opportunity and retain the time and money to keep growing?

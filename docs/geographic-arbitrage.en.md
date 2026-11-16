@@ -1,6 +1,6 @@
 # Choose your playing field: geographic arbitrage for your first opportunity
 
-[中文完整章节](geographic-arbitrage.md) · [Budget assumptions and source notes](geographic-arbitrage-budget.md)
+[Full guide](geographic-arbitrage.md) · [Budget assumptions and source notes](geographic-arbitrage-budget.md)
 
 Prepared: 2026-11-16.
 
